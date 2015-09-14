@@ -1,0 +1,13 @@
+  h1 {
+    color:red;
+    background-color: cyan;
+  }
+  p {
+    font-family:'arial';
+    text-align:justify;
+  }
+  img{
+    width:300px;
+    height:100%;
+    border: 1px solid green;
+  }
